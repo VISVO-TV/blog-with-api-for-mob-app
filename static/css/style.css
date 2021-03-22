@@ -1,0 +1,94 @@
+body {
+  background-color: #5fed94;
+}
+
+#content {
+  background-color: #ffffff;
+  width: 1200px;
+  margin: 5px auto;
+  padding: 20px 40px 20px;
+  float: left;
+}
+
+#sidebar {
+  width: 450px;
+  padding: 20px 40px 20px;
+  float: right;
+  background-color: #ffffff;
+  margin: 5px auto;
+}
+
+.col-sm-4 {
+  height: 33.3333333333%;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    border-radius: 4px;
+}
+
+.dots {
+    height: 4px;
+    width: 4px;
+    margin-bottom: 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.badge {
+    padding: 7px;
+    padding-right: 9px;
+    padding-left: 16px;
+    box-shadow: 5px 6px 6px 2px #090f3e;
+}
+
+.user-img {
+    margin-top: 4px;
+    margin-right: 14px;
+
+}
+
+.check-icon {
+    font-size: 17px;
+    color: #c3bfbf;
+    top: 1px;
+    position: relative;
+    margin-left: 3px;
+}
+
+.text-name {
+  font-size: 17px;
+}
+
+.form-check-input {
+    margin-top: 6px;
+    margin-left: -24px !important;
+    cursor: pointer;
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+}
+
+.icons i {
+    margin-left: 8px;
+}
+
+.reply {
+    margin-left: 12px;
+}
+
+.reply small {
+    color: #b7b4b4;
+}
+
+.reply small:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.add-new-comment {
+    margin-top: 10px;
+}
